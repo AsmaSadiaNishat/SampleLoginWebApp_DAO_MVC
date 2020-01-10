@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: lightgrey;
+}
+h1
+{
+	color: darkblue;
+	font-size: 30px;
+}
+body p
+{
+	font-family: cursive;
+	font-size: 18px;
+}
